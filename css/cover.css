@@ -26,7 +26,6 @@ a:hover {
 
 html,
 body {
-  padding-top: 50px;
   height: 100%;
   background-image: url(../img/cover-background.jpg); /*Put background img in the img folder and link it here*/
   background-size: cover;
